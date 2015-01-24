@@ -1,0 +1,88 @@
+E:\Global Warming\Chess Tricks\Chess Tricks\Bin\Release\Assets\ApplicationIcon.png
+E:\Global Warming\Chess Tricks\Chess Tricks\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+E:\Global Warming\Chess Tricks\Chess Tricks\Bin\Release\Assets\Tiles\IconicTileSmall.png
+E:\Global Warming\Chess Tricks\Chess Tricks\Bin\Release\Chess_Tricks.dll
+E:\Global Warming\Chess Tricks\Chess Tricks\Bin\Release\Chess_Tricks.pdb
+E:\Global Warming\Chess Tricks\Chess Tricks\Bin\Release\Microsoft.Phone.Controls.dll
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Release\Chess Tricks.csprojResolveAssemblyReference.cache
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Release\App.g.cs
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Release\Chamions.g.cs
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Release\descriptin.g.cs
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Release\History1.g.cs
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Release\MainPage.g.cs
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Release\PanoramaPage1.g.cs
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Release\PIeces.g.cs
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Release\Tiless\LiveTileType1.g.cs
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Release\Tiless\LiveTileType2.g.cs
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Release\Tiless\LiveTileType3.g.cs
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Release\Tiless\LiveTileType4.g.cs
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Release\Tiless\SmallTilePhoto.g.cs
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Release\Chess_Tricks.g.resources
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Release\Chess_Tricks.Resources.AppResources.resources
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Release\Chess Tricks.csproj.GenerateResource.Cache
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Release\Chess_Tricks.dll
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Release\Chess_Tricks.pdb
+E:\Global Warming\Chess Tricks\Chess Tricks\Bin\Release\resources.pri
+E:\Global Warming\Chess Tricks\Chess Tricks\Bin\Release\AppxManifest.xml
+E:\Global Warming\Chess Tricks\Chess Tricks\Bin\Release\Chess Tricks.build.appxrecipe
+E:\Global Warming\Chess Tricks\Chess Tricks\Bin\Release\Properties\WMAppManifest.xml
+E:\Global Warming\Chess Tricks\Chess Tricks\Bin\Release\AppManifest.xaml
+E:\Global Warming\Chess Tricks\Chess Tricks\Bin\Release\Chess Tricks_Debug.xap
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Release\priconfig.xml
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Release\priconfig.xml.intermediate
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Release\layout.resfiles
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Release\layout.resfiles.intermediate
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Release\resources.resfiles
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Release\resources.resfiles.intermediate
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Release\pri.resfiles
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Release\pri.resfiles.intermediate
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Release\qualifiers.txt
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Release\qualifiers.txt.intermediate
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Release\MultipleQualifiersPerDimensionFound.txt
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Release\ProjectArchitectures.txt
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Release\MDILProjectFiles.xml
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Release\XapCacheFile.xml
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Bin\Release\Chess_Tricks.dll
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Bin\Release\Chess_Tricks.pdb
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Bin\Release\resources.pri
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Bin\Release\AppxManifest.xml
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Bin\Release\Chess Tricks.build.appxrecipe
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Bin\Release\AppManifest.xaml
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Bin\Release\Chess Tricks_Debug.xap
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\obj\Release\Chess Tricks.csprojResolveAssemblyReference.cache
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\obj\Release\App.g.cs
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\obj\Release\Chamions.g.cs
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\obj\Release\descriptin.g.cs
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\obj\Release\History1.g.cs
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\obj\Release\MainPage.g.cs
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\obj\Release\PanoramaPage1.g.cs
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\obj\Release\PIeces.g.cs
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\obj\Release\Tiless\LiveTileType1.g.cs
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\obj\Release\Tiless\LiveTileType2.g.cs
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\obj\Release\Tiless\LiveTileType3.g.cs
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\obj\Release\Tiless\LiveTileType4.g.cs
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\obj\Release\Tiless\SmallTilePhoto.g.cs
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\obj\Release\Chess_Tricks.g.resources
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\obj\Release\Chess_Tricks.Resources.AppResources.resources
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\obj\Release\Chess Tricks.csproj.GenerateResource.Cache
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\obj\Release\Chess_Tricks.dll
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\obj\Release\Chess_Tricks.pdb
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\obj\Release\priconfig.xml
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\obj\Release\priconfig.xml.intermediate
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\obj\Release\layout.resfiles
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\obj\Release\layout.resfiles.intermediate
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\obj\Release\resources.resfiles
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\obj\Release\resources.resfiles.intermediate
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\obj\Release\pri.resfiles
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\obj\Release\pri.resfiles.intermediate
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\obj\Release\qualifiers.txt
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\obj\Release\qualifiers.txt.intermediate
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\obj\Release\ProjectArchitectures.txt
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\obj\Release\MDILProjectFiles.xml
+C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\obj\Release\XapCacheFile.xml

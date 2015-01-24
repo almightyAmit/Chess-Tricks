@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DOUCHE</Machine>
+    <WindowsUser>Weed</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>9965d829-5d6a-4298-b53f-f3914f646091</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Bin\Release\Chess_Tricks.dll">
+      <PackagePath>Chess_Tricks.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.1\Libraries\Microsoft.Phone.Controls.dll">
+      <PackagePath>Microsoft.Phone.Controls.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\application.png">
+      <PackagePath>application.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Assets\AlignmentGrid.png">
+      <PackagePath>Assets\AlignmentGrid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Assets\ApplicationIcon.png">
+      <PackagePath>Assets\ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Assets\Tiles\IconicTileMediumLarge.png">
+      <PackagePath>Assets\Tiles\IconicTileMediumLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Assets\Tiles\IconicTileSmall.png">
+      <PackagePath>Assets\Tiles\IconicTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\fliplarge.png">
+      <PackagePath>fliplarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\flipsnall.png">
+      <PackagePath>flipsnall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Images\Chess_Titans_Icon.png">
+      <PackagePath>Images\Chess_Titans_Icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\iStock_000024385411Small-CHESS-KNIGHTS420-70-300x336.png">
+      <PackagePath>iStock_000024385411Small-CHESS-KNIGHTS420-70-300x336.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\large.png">
+      <PackagePath>large.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\mediumch.png">
+      <PackagePath>mediumch.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\smallch.png">
+      <PackagePath>smallch.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Images\0225.jpg">
+      <PackagePath>Images\0225.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Images\Chess-Wallpaper-HD.jpg">
+      <PackagePath>Images\Chess-Wallpaper-HD.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Images\grandmaster_chess_setl600.jpg">
+      <PackagePath>Images\grandmaster_chess_setl600.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Images\Untitled-1.jpg">
+      <PackagePath>Images\Untitled-1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Images\Untitled-10.jpg">
+      <PackagePath>Images\Untitled-10.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Images\Untitled-11.jpg">
+      <PackagePath>Images\Untitled-11.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Images\Untitled-12.jpg">
+      <PackagePath>Images\Untitled-12.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Images\Untitled-2.jpg">
+      <PackagePath>Images\Untitled-2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Images\Untitled-3.jpg">
+      <PackagePath>Images\Untitled-3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Images\Untitled-4.jpg">
+      <PackagePath>Images\Untitled-4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Images\Untitled-6.jpg">
+      <PackagePath>Images\Untitled-6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Images\Untitled-7.jpg">
+      <PackagePath>Images\Untitled-7.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Images\Untitled-8.jpg">
+      <PackagePath>Images\Untitled-8.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Images\Untitled-9.jpg">
+      <PackagePath>Images\Untitled-9.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Weed\Desktop\Chess Tricks\Chess Tricks\Bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

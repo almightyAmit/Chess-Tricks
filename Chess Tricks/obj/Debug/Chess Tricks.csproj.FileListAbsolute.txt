@@ -1,0 +1,115 @@
+C:\Users\Misty1\Documents\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Misty1\Documents\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Misty1\Documents\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Misty1\Documents\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\Bin\Debug\Chess Tricks.dll
+C:\Users\Misty1\Documents\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\Bin\Debug\Chess Tricks.pdb
+C:\Users\Misty1\Documents\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\Bin\Debug\AppManifest.xaml
+C:\Users\Misty1\Documents\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\Bin\Debug\Chess_Tricks_Debug_AnyCPU.xap
+C:\Users\Misty1\Documents\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\App.g.cs
+C:\Users\Misty1\Documents\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\MainPage.g.cs
+C:\Users\Misty1\Documents\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\Chess Tricks.g.resources
+C:\Users\Misty1\Documents\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\Chess_Tricks.Resources.AppResources.resources
+C:\Users\Misty1\Documents\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\Chess Tricks.csproj.GenerateResource.Cache
+C:\Users\Misty1\Documents\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\Chess Tricks.dll
+C:\Users\Misty1\Documents\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\Chess Tricks.pdb
+C:\Users\Misty1\Documents\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\XapCacheFile.xml
+C:\Users\Misty1\Documents\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\Tiless\LiveTileType1.g.cs
+C:\Users\Misty1\Documents\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\Tiless\LiveTileType2.g.cs
+C:\Users\Misty1\Documents\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\Tiless\LiveTileType3.g.cs
+C:\Users\Misty1\Documents\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\Tiless\LiveTileType4.g.cs
+C:\Users\Misty1\Documents\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\Tiless\SmallTilePhoto.g.cs
+C:\Users\Misty1\Documents\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Misty1\Documents\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\descriptin.g.cs
+C:\Users\Misty1\Documents\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\PanoramaPage1.g.cs
+C:\Users\Misty1\Documents\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\PIeces.g.cs
+C:\Users\Misty1\Documents\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\History1.g.cs
+C:\Users\Misty1\Documents\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\Chamions.g.cs
+C:\Users\Misty1\Documents\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\Chess Tricks.csprojResolveAssemblyReference.cache
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\Bin\Debug\Assets\ApplicationIcon.png
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\Bin\Debug\Chess_Tricks.dll
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\Bin\Debug\Chess_Tricks.pdb
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\Bin\Debug\resources.pri
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\Bin\Debug\AppxManifest.xml
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\Bin\Debug\Chess Tricks.build.appxrecipe
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\Bin\Debug\Properties\WMAppManifest.xml
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\Bin\Debug\AppManifest.xaml
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\Bin\Debug\Chess Tricks_Debug.xap
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\App.g.cs
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\Chamions.g.cs
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\descriptin.g.cs
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\History1.g.cs
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\MainPage.g.cs
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\PanoramaPage1.g.cs
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\PIeces.g.cs
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\Tiless\LiveTileType1.g.cs
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\Tiless\LiveTileType2.g.cs
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\Tiless\LiveTileType3.g.cs
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\Tiless\LiveTileType4.g.cs
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\Tiless\SmallTilePhoto.g.cs
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\Chess_Tricks.g.resources
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\Chess_Tricks.Resources.AppResources.resources
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\Chess Tricks.csproj.GenerateResource.Cache
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\Chess_Tricks.dll
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\Chess_Tricks.pdb
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\priconfig.xml
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\priconfig.xml.intermediate
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\layout.resfiles
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\layout.resfiles.intermediate
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\resources.resfiles
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\resources.resfiles.intermediate
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\pri.resfiles
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\pri.resfiles.intermediate
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\qualifiers.txt
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\qualifiers.txt.intermediate
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\ProjectArchitectures.txt
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\MDILProjectFiles.xml
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\XapCacheFile.xml
+D:\Windows8\Visual Studio 2012\Projects\Chess Tricks\Chess Tricks\obj\Debug\Chess Tricks.csprojResolveAssemblyReference.cache
+E:\Global Warming\Chess Tricks\Chess Tricks\Bin\Debug\Assets\ApplicationIcon.png
+E:\Global Warming\Chess Tricks\Chess Tricks\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\Global Warming\Chess Tricks\Chess Tricks\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+E:\Global Warming\Chess Tricks\Chess Tricks\Bin\Debug\Chess_Tricks.dll
+E:\Global Warming\Chess Tricks\Chess Tricks\Bin\Debug\Chess_Tricks.pdb
+E:\Global Warming\Chess Tricks\Chess Tricks\Bin\Debug\resources.pri
+E:\Global Warming\Chess Tricks\Chess Tricks\Bin\Debug\AppxManifest.xml
+E:\Global Warming\Chess Tricks\Chess Tricks\Bin\Debug\Chess Tricks.build.appxrecipe
+E:\Global Warming\Chess Tricks\Chess Tricks\Bin\Debug\Properties\WMAppManifest.xml
+E:\Global Warming\Chess Tricks\Chess Tricks\Bin\Debug\AppManifest.xaml
+E:\Global Warming\Chess Tricks\Chess Tricks\Bin\Debug\Chess Tricks_Debug.xap
+E:\Global Warming\Chess Tricks\Chess Tricks\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Debug\Chess Tricks.csprojResolveAssemblyReference.cache
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Debug\App.g.cs
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Debug\Chamions.g.cs
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Debug\descriptin.g.cs
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Debug\History1.g.cs
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Debug\MainPage.g.cs
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Debug\PanoramaPage1.g.cs
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Debug\PIeces.g.cs
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Debug\Tiless\LiveTileType1.g.cs
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Debug\Tiless\LiveTileType2.g.cs
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Debug\Tiless\LiveTileType3.g.cs
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Debug\Tiless\LiveTileType4.g.cs
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Debug\Tiless\SmallTilePhoto.g.cs
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Debug\Chess_Tricks.g.resources
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Debug\Chess_Tricks.Resources.AppResources.resources
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Debug\Chess Tricks.csproj.GenerateResource.Cache
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Debug\Chess_Tricks.dll
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Debug\Chess_Tricks.pdb
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Debug\priconfig.xml
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Debug\priconfig.xml.intermediate
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Debug\layout.resfiles
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Debug\layout.resfiles.intermediate
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Debug\resources.resfiles
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Debug\resources.resfiles.intermediate
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Debug\pri.resfiles
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Debug\pri.resfiles.intermediate
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Debug\qualifiers.txt
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Debug\qualifiers.txt.intermediate
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Debug\ProjectArchitectures.txt
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Debug\MDILProjectFiles.xml
+E:\Global Warming\Chess Tricks\Chess Tricks\obj\Debug\XapCacheFile.xml
